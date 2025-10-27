@@ -1,3 +1,4 @@
+![alphabeta](https://github.com/user-attachments/assets/c1849ae6-343b-4d5f-909f-d10041e334b6)
 # Alpha-Beta Pruning Algorithm Implementation in Python
 
 ## Overview
