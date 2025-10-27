@@ -1,3 +1,4 @@
+![bfs](https://github.com/user-attachments/assets/612d86ef-58b2-4dc3-86f5-7bcaba5a005d)
 # Breadth-First Search (BFS) Implementation
 
 ## Overview
