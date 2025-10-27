@@ -1,3 +1,4 @@
+![ids](https://github.com/user-attachments/assets/fe9ebdcc-70cd-4354-ada2-7ab7f447a578)
 # Iterative Deepening Search (IDS) Implementation
 
 ## Overview
