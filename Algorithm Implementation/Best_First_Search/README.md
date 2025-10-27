@@ -1,3 +1,4 @@
+![best](https://github.com/user-attachments/assets/066df600-8a56-48aa-b52a-003158fdd596)
 # Best-First Search (BFS with Heuristic) Implementation
 
 ## Overview
