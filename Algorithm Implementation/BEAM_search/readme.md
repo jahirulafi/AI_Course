@@ -1,3 +1,4 @@
+![beam ](https://github.com/user-attachments/assets/a589e2b3-c064-4946-81af-a394c08021d4)
 # Beam Search Algorithm Implementation in C++
 
 This program implements the **Beam Search** algorithm, a heuristic search method that explores a graph level by level, keeping only a limited number of the most promising nodes (defined by the "beam width") at each step. It uses heuristics to prioritize nodes and is useful for finding paths in large search spaces where exhaustive search is impractical.
