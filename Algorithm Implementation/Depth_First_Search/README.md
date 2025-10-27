@@ -1,3 +1,4 @@
+![dfs](https://github.com/user-attachments/assets/85543f90-b4f8-45aa-9335-0d720ebb8421)
 # Depth-First Search (DFS) Implementation
 
 ## Overview
