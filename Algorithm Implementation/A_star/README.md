@@ -1,3 +1,5 @@
+![astar](https://github.com/user-attachments/assets/babbc876-0536-4613-81db-dc0089bb65dc)
+![WhatsApp Image 2025-10-27 at 11 12 16 AM](https://github.com/user-attachments/assets/331754a9-662a-4caa-8cf3-eae7a2d6593c)
 # A* Search Algorithm Implementation in Python
 
 ## Overview
