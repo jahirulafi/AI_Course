@@ -1,3 +1,4 @@
+![minimax)](https://github.com/user-attachments/assets/348bcbcd-a6fe-49cf-86c0-b71e22609ac8)
 # Minimax Algorithm Implementation
 
 ## Overview
